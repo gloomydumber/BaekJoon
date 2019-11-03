@@ -1,3 +1,5 @@
+// https://www.acmicpc.net/problem/1330
+
 #include <iostream>
 
 using namespace std;
@@ -19,6 +21,6 @@ int main(void)
         cout<<'<'<<endl;
           else
             cout<<"=="<<endl;
-            
+
     return 0;
 }
