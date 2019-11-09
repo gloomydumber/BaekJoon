@@ -29,6 +29,6 @@ int main(void)
       cout<<"descending"<<'\n';
       else
         cout<<"mixed"<<'\n';
-        
+
   return 0;
 }
