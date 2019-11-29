@@ -1,5 +1,6 @@
 // https://www.acmicpc.net/problem/2839
 // 더 깔끔하게 짤 수 없을까
+// https://developerin.tistory.com/28
 #include <bits/stdc++.h>
 
 using namespace std;
