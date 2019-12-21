@@ -33,6 +33,6 @@ int main(void)
   string B;
   cin>>A>>B;
   summation(A, B);
-  cout<<A+B;
+
   return 0;
 }
